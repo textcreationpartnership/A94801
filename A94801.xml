@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coppy of a letter sent from the Earle of Traquere in Ireland the third of October 1641 To old Father Philips, heere in England, and now prisoner in the Tower. VVhich letter was intercepted, at a certaine time by Sir Robert Richardson, kept private but now disclosed. Vpon which old Father Philips was committed to the Tower. With a true relation how the number of rebels dayly increase in the woods at Ireland.</title>
+            <author>Traquair, John Stewart, Earl of, d. 1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94801</idno>
+            <idno type="STC">Wing T2053A</idno>
+            <idno type="STC">ESTC R230035</idno>
+            <idno type="EEBO-CITATION">99895783</idno>
+            <idno type="PROQUEST">99895783</idno>
+            <idno type="VID">153368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153368)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2360:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coppy of a letter sent from the Earle of Traquere in Ireland the third of October 1641 To old Father Philips, heere in England, and now prisoner in the Tower. VVhich letter was intercepted, at a certaine time by Sir Robert Richardson, kept private but now disclosed. Vpon which old Father Philips was committed to the Tower. With a true relation how the number of rebels dayly increase in the woods at Ireland.</title>
+                  <author>Traquair, John Stewart, Earl of, d. 1659.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Old Father Philips = Robert Philips.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Philips, Robert, d. 1650? --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153368:1"/>
+            <p>THE COPPY OF a letter ſent from the Earle of <hi>Traquere</hi> in <hi>Jreland</hi> the third of <hi>October</hi> 1641. To Old Father <hi>Philips,</hi> heere in <hi>England,</hi> and now priſoner in the <hi>Tower.</hi> Which letter was inter<g ref="char:EOLhyphen"/>cepted, at a certaine time by Sir <hi>Robert Richardſon,</hi> kept private but now diſcloſed. Vpon which old Father <hi>Philips</hi> was committed to the <hi>Tower.</hi> With a true relation how the number of Re<g ref="char:EOLhyphen"/>bels dayly increaſe in the woods at <hi>Ireland.</hi>
+            </p>
+            <p>Printed at London 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:153368:2"/>
+            <pb facs="tcp:153368:2"/>
+            <head>THE COPPY OF a letter ſent from the Earle of <hi>Traquere</hi> in <hi>Ireland</hi> the third of <hi>October</hi> 1641.</head>
+            <head type="sub">To old Father <hi>Philips,</hi> heere in <hi>England,</hi> and now priſoner in the <hi>Tower.</hi>
+            </head>
+            <opener>
+               <salute>Venerable Father,</salute>
+            </opener>
+            <p>DVty compells mee to make knowne unto you, the height of our intents, in<g ref="char:EOLhyphen"/>ſomuch as I know you to be a loyall, and conſtant friend to <hi>Rome,</hi> whoſe pious cha<g ref="char:EOLhyphen"/>rity, and iuſt actions, by Hereticks are accoun<g ref="char:EOLhyphen"/>ted as abominations. Our chiefeſt, friends. Some of them are in very woefull ieo<g ref="char:EOLhyphen"/>pardy
+<pb n="4" facs="tcp:153368:3"/>of life, and others ſuffer baniſhment, which I know is no little greife to you, nor vexation to thoſe which are your friends.</p>
+            <p>Wee are accounted as abiect ſlaves, and are reviled by each merchanick, whoſe cheifeſt ambition hath beene to arrive at that haven of happineſſe to drive a Cart, or command a Plough, theſe and ſuch like are of late growne to bee our Maſters, nay we are ſcarce thought worthy to be their Srvants, wee muſt have our habiliments of warre, though kept for a good purpoſe ceaſed upon, privilidge is ſcarce given unto us to have a ſword to hang by our ſide: double and treble tribute by us muſt be paid and yet ſeeme they not to be contented.</p>
+            <p>Wee muſt not Enioy a holy Prieſt, which is not of their order, upon the forfeiture of there deare and precious lives.</p>
+            <p>Father <hi>Walker,</hi> I heard they have drawne, hanged, and quartered, whoſe blood ſhall lighten upon the heads of thouſands of them, but to come the ſubiect of my loyall intents towards you.</p>
+            <p>The Plot which now long ſince, I gave you private notice of, goeth forward very well.</p>
+            <p>Thoſe which are ſtyled proteſtants heare in <hi>Ireland,</hi> dreame of nothing, but are perſwa<g ref="char:EOLhyphen"/>ded they ſhall alwayes ſleepe in whole skines,
+<pb n="5" facs="tcp:153368:3"/>and yet ſome of them begin to quake, many forts are already in poſſe, wee doe not feare but in a very ſhort time to have them in eſſe.</p>
+            <p>The woods are well ſcaned, then not a man there but will chuſe rather to looſe their lives, then their former liberties, they have already ſlaine and pillaged many Hereticks ſo private<g ref="char:EOLhyphen"/>ly, that they are not ſo much as ſuſpected for the inſtruments of their deaths, our true and truſty friend <hi>Hugh Ogmakmahawne,</hi> is as yet ve<g ref="char:EOLhyphen"/>ry ſafe, although he hath beene beſet many times with the great danger of his life, hee doth take very great paines to further our en<g ref="char:EOLhyphen"/>terpriſes.</p>
+            <p>We have have made many private aſſaults, to take <hi>Dublin</hi> Caſtle, but as yet cannot pre<g ref="char:EOLhyphen"/>vaile, had we but once that ſtrong houſe, our ſole intents are to put all the Hereticks to fire and ſword, But our beginning ſhall be with the Lord. Iuſtices, and the Privie Counſell.</p>
+            <p>I deſire to have intelligence from you, to know your mind concerning your laſt intents, we have had very ill fortune, concerning ſome affaires of late, which wee hope ſhortly to re<g ref="char:EOLhyphen"/>new againe.</p>
+            <p>I have at this time ten thouſand men in
+<pb n="6" facs="tcp:153368:4"/>armes in the woods, who are ſufficiently victu<g ref="char:EOLhyphen"/>alled, for five months, unknowne to all but our owne friends, ſhortly expecte other newes, in the meane while, I leave you to the conſideration of my former Letter.</p>
+            <closer>
+               <signed>Yours <hi>Traquere.</hi>
+               </signed>
+               <dateline>
+                  <hi>Dublin</hi> 
+                  <date>the third of <hi>October.</hi> 1641.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <head>The manner of the Rebels lying in the woods.</head>
+            <p>There are at this time there about ten thouſand men well ar<g ref="char:EOLhyphen"/>med &amp; uictualled, which have their habitation about the woods in Ire<g ref="char:EOLhyphen"/>land, theſe were not long ſince a<g ref="char:EOLhyphen"/>bove three hundred, but thus their number increaſed.</p>
+            <p>Thoſe three hundred men at the firſt, were wont, about the deadeſt time of night, to leave the woods and ſeeke abroad for their preay, which was thus.</p>
+            <pb n="7" facs="tcp:153368:4"/>
+            <p>To the firſt houſe, which they came at, they would call to the maſt<g ref="char:EOLhyphen"/>er thereof, and bid him ſtrait let them in; which hee denied, without any more delay, they would burne the houſe about his eares, but if hee at that time doe let them in, then would they take all they found, and in the morning away out, if they vvere eſpyed to goe out of the mans houſe, vvhich vvas robbed, then ſhould that man be complained off, and bee hanged for entertayning re<g ref="char:EOLhyphen"/>bels: vvherefore many men being in that ſtrayte were forced eyther to bee hanged or to turne Rebels, vvhich hath beene the cauſe, and is ſo of theire daylie multiplying and encreaſing.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153368:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
